@@ -122,8 +122,3 @@ The assignments are implemented in Python using popular libraries such as `panda
 - Learned to visualize data effectively for exploratory and explanatory analysis.
 - Compared multiple algorithms for classification, clustering, regression, and association rule mining.
 - Understood the importance of preprocessing, feature engineering, and model evaluation.
-
-## **Contact**
-**Author:** Chan Minh Hang  
-**Email:** [your-email]  
-**LinkedIn/GitHub:** [your-profiles]
